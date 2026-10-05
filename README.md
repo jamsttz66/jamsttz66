@@ -4,6 +4,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A4A47,50:7C3AED,100:A855F7&height=190&section=header&text=Muhammad%20Nahrun%20Ukasya&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Visual%20Creator&descAlignY=56&descSize=18&animation=fadeIn" width="100%" alt="header" />
 
+<img src="https://raw.githubusercontent.com/jamsttz66/jamsttz66/main/assets/avatar-nx.png" width="118" height="118" alt="NX" />
+
+<br/>
+
 <a href="https://nahrunxploit.my.id/">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=760&lines=Full-Stack+Developer+%E2%80%94+Web+%26+Mobile;Photographer+%26+Photo+Editor;Building+with+AI+%E2%80%94+vibe+coding;S1+Sistem+Informasi+%40+Unasman+2026" alt="typing" />
 </a>
